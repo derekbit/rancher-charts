@@ -11,8 +11,8 @@ image:
       repository: rancher/mirrored-longhornio-longhorn-engine
       tag: v1.3.0-rc1
     manager:
-      repository: rancher/mirrored-longhornio-longhorn-manager
-      tag: v1.3.0-rc1
+      repository: naturlich/longhorn-manager
+      tag: issue-2570-resource-version
     ui:
       repository: rancher/mirrored-longhornio-longhorn-ui
       tag: v1.3.0-rc1

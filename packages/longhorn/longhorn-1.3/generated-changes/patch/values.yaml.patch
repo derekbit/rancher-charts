@@ -9,8 +9,8 @@
        tag: v1.3.0-rc1
      manager:
 -      repository: longhornio/longhorn-manager
-+      repository: rancher/mirrored-longhornio-longhorn-manager
-       tag: v1.3.0-rc1
++      repository: naturlich/longhorn-manager
+       tag: issue-2570-resource-version
      ui:
 -      repository: longhornio/longhorn-ui
 +      repository: rancher/mirrored-longhornio-longhorn-ui
